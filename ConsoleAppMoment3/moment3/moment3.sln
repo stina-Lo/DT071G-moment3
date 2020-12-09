@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppMoment3", "ConsoleAppMoment3\ConsoleAppMoment3.csproj", "{70F7E0B8-B302-4E1D-8CAF-7A851DFB8693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter02GettingtextInputFromUser", "..\..\Test-csharp\Chapter02\Chapter02\Chapter02GettingtextInputFromUser\Chapter02GettingtextInputFromUser.csproj", "{FBF67732-3867-4EDC-917E-B098378196F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70F7E0B8-B302-4E1D-8CAF-7A851DFB8693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F7E0B8-B302-4E1D-8CAF-7A851DFB8693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F7E0B8-B302-4E1D-8CAF-7A851DFB8693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F7E0B8-B302-4E1D-8CAF-7A851DFB8693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF67732-3867-4EDC-917E-B098378196F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF67732-3867-4EDC-917E-B098378196F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF67732-3867-4EDC-917E-B098378196F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF67732-3867-4EDC-917E-B098378196F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
